@@ -1,0 +1,193 @@
+Explanation for binary files inside source package according to
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/acme.rda
+Documentation: man/acme.Rd
+  ->  Monthly Excess Returns
+
+Files: data/aids.rda
+Documentation: man/aids.Rd
+  ->  Delay in AIDS Reporting in England and Wales
+
+Files: data/aircondit.rda
+Documentation: man/aircondit.Rd
+  ->  Failures of Air-conditioning Equipment
+
+Files: data/amis.rda
+Documentation: man/amis.Rd
+  ->  Car Speeding and Warning Signs
+
+Files: data/aml.rda
+Documentation: man/aml.Rd
+  ->  Remission Times for Acute Myelogenous Leukaemia
+
+Files: data/beaver.rda
+Documentation: man/beaver.Rd
+  ->  Beaver Body Temperature Data
+
+Files: data/bigcity.rda
+Documentation: man/bigcity.Rd
+  ->  Population of U.S. Cities
+
+Files: data/brambles.rda
+Documentation: man/brambles.Rd
+  ->  Spatial Location of Bramble Canes
+
+Files: data/breslow.rda
+Documentation: man/breslow.Rd
+  ->  Smoking Deaths Among Doctors
+
+Files: data/calcium.rda
+Documentation: man/calcium.Rd
+  ->  Calcium Uptake Data
+
+Files: data/cane.rda
+Documentation: man/cane.Rd
+  ->  Sugar-cane Disease Data
+
+Files: data/capability.rda
+Documentation: man/capability.Rd
+  ->  Simulated Manufacturing Process Data
+
+Files: data/catsM.rda
+Documentation: man/catsM.Rd
+  ->  Weight Data for Domestic Cats
+
+Files: data/cav.rda
+Documentation: man/cav.Rd
+  ->  Position of Muscle Caveolae
+
+Files: data/cd4.nested.rda
+Documentation: man/cd4.nested.Rd
+  ->  Nested Bootstrap of cd4 data
+
+Files: data/cd4.rda
+Documentation: man/cd4.Rd
+  ->  CD4 Counts for HIV-Positive Patients
+
+Files: data/channing.rda
+Documentation: man/channing.Rd
+  ->  Channing House Data
+
+Files: data/claridge.rda
+Documentation: man/claridge.Rd
+  ->  Genetic Links to Left-handedness
+
+Files: data/cloth.rda
+Documentation: man/cloth.Rd
+  ->  Number of Flaws in Cloth
+
+Files: data/co.transfer.rda
+Documentation: man/co.transfer.Rd
+  ->  Carbon Monoxide Transfer
+
+Files: data/coal.rda
+Documentation: man/coal.Rd
+  ->  Dates of Coal Mining Disasters 
+
+Files: data/darwin.rda
+Documentation: man/darwin.Rd
+  ->  Darwin's Plant Height Differences
+
+Files: data/dogs.rda
+Documentation: man/dogs.Rd
+  ->  Data on the cardiac oxygen consumption and left ventricular
+  pressure were gathered on 7 domestic dogs.
+
+Files: data/downs.bc.rda
+Documentation: man/downs.bc.Rd
+  ->  Incidence of Down's Syndrome in British Columbia
+
+Files: data/ducks.rda
+Documentation: man/ducks.Rd
+  ->  Behavioral and Plumage Characteristics of Hybrid Ducks
+
+Files: data/fir.rda
+Documentation: man/fir.Rd
+  ->  Counts of Balsam-fir Seedlings
+
+Files: data/frets.rda
+Documentation: man/frets.Rd
+  ->  Head Dimensions in Brothers
+
+Files: data/gravity.rda
+Documentation: man/gravity.Rd
+  ->  Acceleration Due to Gravity
+
+Files: data/hirose.rda
+Documentation: man/hirose.Rd
+  ->  Failure Time of PET Film
+
+Files: data/islay.rda
+Documentation: man/islay.Rd
+  ->  Jura Quartzite Azimuths on Islay
+
+Files: data/manaus.rda
+Documentation: man/manaus.Rd
+  ->  Average Heights of the Rio Negro river at Manaus
+
+Files: data/melanoma.rda
+Documentation: man/melanoma.Rd
+  ->  Survival from Malignant Melanoma
+
+Files: data/motor.rda
+Documentation: man/motor.Rd
+  ->  Data from a Simulated Motorcycle Accident
+
+Files: data/neuro.rda
+Documentation: man/neuro.Rd
+  ->  Neurophysiological Point Process Data
+
+Files: data/nitrofen.rda
+Documentation: man/nitrofen.Rd
+  ->  Toxicity of Nitrofen in Aquatic Systems
+
+Files: data/nodal.rda
+Documentation: man/nodal.Rd
+  ->  Nodal Involvement in Prostate Cancer
+
+Files: data/nuclear.rda
+Documentation: man/nuclear.Rd
+  ->  Nuclear Power Station Construction Data
+
+Files: data/paulsen.rda
+Documentation: man/paulsen.Rd
+  ->  Neurotransmission in Guinea Pig Brains
+
+Files: data/poisons.rda
+Documentation: man/poisons.Rd
+  ->  Animal Survival Times
+
+Files: data/polar.rda
+Documentation: man/polar.Rd
+  ->  Pole Positions of New Caledonian Laterites
+
+Files: data/remission.rda
+Documentation: man/remission.Rd
+  ->  Cancer Remission and Cell Activity
+
+Files: data/salinity.rda
+Documentation: man/salinity.Rd
+  ->  Water Salinity and River Discharge
+
+Files: data/survival.rda
+Documentation: man/survival.Rd
+  ->  Survival of Rats after Radiation Doses
+
+Files: data/tau.rda
+Documentation: man/tau.Rd
+  ->  Tau Particle Decay Modes
+
+Files: data/tuna.rda
+Documentation: man/tuna.Rd
+  ->  Tuna Sighting Data
+
+Files: data/urine.rda
+Documentation: man/urine.Rd
+  ->  Urine Analysis Data
+
+Files: data/wool.rda
+Documentation: man/wool.Rd
+  ->  Australian Relative Wool Prices
+
+ -- Dirk Eddelbuettel <edd@debian.org>, Sat,  2 Jun 2018 09:34:13 -0500

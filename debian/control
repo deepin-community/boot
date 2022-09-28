@@ -1,0 +1,22 @@
+Source: boot
+Section: gnu-r
+Priority: optional
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Build-Depends: debhelper-compat (= 11), r-base-dev (>= 4.1.1), dh-r
+Standards-Version: 4.5.1
+Vcs-Browser: https://salsa.debian.org/edd/r-cran-boot
+Vcs-Git: https://salsa.debian.org/edd/r-cran-boot.git
+Homepage: https://cran.r-project.org/package=boot
+
+Package: r-cran-boot
+Architecture: all
+Depends: ${misc:Depends}, ${R:Depends}
+Replaces: r-recommended (<< 1.9.0)
+Description: GNU R package for bootstrapping functions from Davison and Hinkley
+ This package provides functions and datasets from the book "Bootstrap Methods
+ and Their Applications" by A. C. Davison and D. V. Hinkley (1997, CUP). It was
+ witten by Angelo Canty, and ported to R by Brian Ripley.
+ .
+ This package is part of the set of packages that are 'recommended' 
+ by R Core and shipped with upstream source releases of R itself.
+
